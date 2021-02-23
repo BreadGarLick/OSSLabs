@@ -30,18 +30,12 @@ https://github.com/BreadGarLick/Lab4Business-
 8.
 
 Website | License Present | License
----------|:----------|:-------
+---|---|---
 https://github.com/gmisail/dormdesign | Yes | MIT License
----------|:----------|:-------
 https://github.com/natsr4/exalendar | Yes | BSD 2-Clause License
----------|:----------|:-------
 https://github.com/wtg/flutter_shuttletracker | Yes | GNU Affero General Public License
----------|:----------|:-------
 https://github.com/jacoba4/raidta | Yes | MIT License
----------|:----------|:-------
 https://github.com/seanmiller969/smab | Yes | MIT License
----------|:----------|:-------
-
 
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
