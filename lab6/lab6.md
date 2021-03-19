@@ -102,7 +102,7 @@ take
 
 ### Order doesn't matter code and Output
 
-[Code](pyfiles/words_no_order.py)
+[No Order code](pyfiles/words_no_order.py)
 
 ```
 Two words are connected if they differ in one letter.
