@@ -1,5 +1,9 @@
 ### 5 letter code and output
+
 [5 Letter Code](pyfiles/words_5letter.py)
+
+Output:
+```
 Loaded words_dat.txt containing 5757 five-letter English words.
 Two words are connected if they differ in one letter.
 Graph has 5757 nodes with 14135 edges
@@ -66,5 +70,11 @@ peace
 peach
 Shortest path between pound and marks is
 None
+```
 
-2.
+### 4 letter code and Output
+
+[4 Letter Code](pyfiles/words_4letter.py)
+
+Output:
+```
