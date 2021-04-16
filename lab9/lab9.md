@@ -1,6 +1,6 @@
 # Part 0
 
-
+Whenever a pubic figure has some sort of scandal surrounding their wrongdoing, it is hard to separate the work of that person from their words or actions surrounding that scandal. This is true in the case of Richard Stallman. Even if he apologizes for his comments, any future projects he contributes to could suffer a negative  image by association. In that way, future open source projects may not be as willing to work with him. In addition, he also was considered difficult to work with before his comments about Jeffery Epstein. 
 
 # Part 1
 
