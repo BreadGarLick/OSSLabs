@@ -46,7 +46,7 @@
 
 <img src="images/4.2.png">
 
-#### Link to [script](checkpoint4.py)
+#### Link to [script](https://github.com/BreadGarLick/mongodb_lab/blob/master/checkpoint4.py)
 
 # Part 5
 
@@ -56,4 +56,4 @@
 <img src="images/5.2.png">
 
 
-#### Link to [script](checkpoint5.py)
+#### Link to [script](https://github.com/BreadGarLick/mongodb_lab/blob/master/checkpoint5.py)
